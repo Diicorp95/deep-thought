@@ -1,6 +1,6 @@
 # Deep Thought
 [![CodeFactor](https://www.codefactor.io/repository/github/diicorp95/deep-thought/badge)](https://www.codefactor.io/repository/github/diicorp95/deep-thought)<br>
-An artificial intelligence based on 5-dimensional quantum selection.
+An artificial intelligence based on multiverse theory and perception principles.
 
 ## Algorithm
 ### The payload
